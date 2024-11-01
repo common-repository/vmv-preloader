@@ -1,0 +1,21 @@
+{
+  "themeComponent": "type1",
+  "logoText": "My Logo",
+  "fontSpaceScale": 0.06,
+  "fontBaseHeight": 55,
+  "pulseElWidth": 15,
+  "uniqCorrectSpeedAnimation": 1,
+  "strokeColor1": "#fff",
+  "strokeColor2" : "#fff",
+  "shadow": "rgba(0,0,0, 0.5)",
+  "bg": "#2193B0",
+  "bgStop1": "#6DD5ED",
+  "bgStop2": "#2193B0",
+  "bgGradientType": "radial",
+  "bgGradientDirection": "at center",
+  "w1": 50,
+  "w2": 50,
+  "w3": 50,
+  "w4": 50,
+  "logicView": "oneCycle"
+}
